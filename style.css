@@ -9,17 +9,17 @@
  */
 
 body, html {
-  width: 100%;
+    width: 1600px;
     margin:0;
     display:inline;
     scroll-behavior: smooth;
 }
 
 img {
-  width: 60%;
+  width: 900px;
   position: absolute;
-  top: 30%;
-  left: 18%;
+  top: 900px;
+  left: 300px;
   display: inline;
   z-index: 1;
 }
