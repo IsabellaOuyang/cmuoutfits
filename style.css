@@ -9,16 +9,16 @@
  */
 
 body, html {
-    width: 400px;
+    width: 350px;
     margin:0;
     display:inline;
     scroll-behavior: smooth;
 }
 
 img {
-  width: 220px;
+  width: 180px;
   position: absolute;
-  top: 240px;
+  top: 200px;
   left: 75px;
   display: inline;
   z-index: 1;
